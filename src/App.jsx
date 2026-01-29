@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import {InputBox} from './components'
-import useCurrencyInfo from './hooks/useCurrencyInfo.js'
+import useCurrencyInfo from './Hooks/useCurrencyInfo.js'
 
 
 
